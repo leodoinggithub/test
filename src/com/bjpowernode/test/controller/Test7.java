@@ -9,10 +9,10 @@ import java.sql.*;
 /**
  * ClassName:Test7
  * Package:com.bjpowernode.test.controller
- * Dscription:
+ * Description:
  *
  * @date:2019/4/4 8:54
- * @Author:liujian
+ * @Author:leo
  */
 public class Test7 {
 

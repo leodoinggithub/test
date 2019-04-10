@@ -3,10 +3,10 @@ package com.bjpowernode.test.model;
 /**
  * ClassName:Student
  * Package:com.bjpowernode.test.model
- * Dscription:
+ * Description:
  *
  * @date:2019/3/27 18:58
- * @Author:liujian
+ * @Author:leo
  */
 public class Student {
 
